@@ -54,7 +54,7 @@ const SignUp = () => {
           />
         </InputContainer>
 
-        <SignUpButton onClick={signup}>Create Account in Amazon</SignUpButton>
+        <SignUpButton onClick={signup}>Create Account in ApniDukan</SignUpButton>
       </FormContainer>
 
       <LoginButton onClick={() => navigate("/login")}>
