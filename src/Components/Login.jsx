@@ -71,7 +71,7 @@ const Login = () => {
         </InfoText>
       </FormContainer>
       <SignUpButton onClick={() => navigate("/signup")}>
-        Create Account in Amazon
+        Create Account in ApniDukan
       </SignUpButton>
 
         </Container>
